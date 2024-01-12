@@ -1,0 +1,29 @@
+_repo: The-Squire-s-young-folk-b-A-Christmas-story_72453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    alias: Stooke, E. H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72453'
+language: en
+pgterms:marc905: 20231215132246stooke
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bS. W. Partridge & Co., Ltd., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Blind children -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Squire''s young folk : $b A Christmas story'
+url: http://www.gutenberg.org/ebooks/72453
