@@ -1,5 +1,8 @@
 _repo: The-Squire-s-young-folk-b-A-Christmas-story_72453
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72453#The-Squire-s-young-folk-b-A-Christmas-story
 gutenberg_issued: '2023-12-19'
 gutenberg_type: Text
 identifiers:
